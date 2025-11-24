@@ -1,0 +1,51 @@
+[
+    {
+        "id":1,
+        "name":"Double  Patty burger",
+        "price":"$5",
+        "image":"images/burger.png"
+    },
+    {
+        "id":2,
+        "name":"Veg Pizza",
+        "price":"$4",
+        "image":"images/veg-pizza.png"
+    },
+    {
+        "id":3,
+        "name":"Veg Chomwin",
+        "price":"$2.5",
+        "image":"images/vegChowmin.jpg"
+    },
+    {
+        "id":4,
+        "name":"veg Manchurian",
+        "price":"$3.5",
+        "image":"images/VegManchurian.jpg"
+    },
+    {
+        "id":5,
+        "name":"Chicken Manchurian",
+        "price":"$5",
+        "image":"images/ChickenManchurian.jpg"
+    },
+    {
+        "id":6,
+        "name":"Chicken Roll",
+        "price":"$4.5",
+        "image":"images/ChickenRoll.jpg"
+    },
+    {
+        "id":7,
+        "name":"PaneerRoll",
+        "price":"$5",
+        "image":"images/paneerRoll.jpg"
+    },
+    {
+        "id":8,
+        "name":"MixChowmin",
+        "price":"$5.5",
+        "image":"images/MixChowmin.jpg"
+    }
+   
+]
